@@ -19,3 +19,9 @@ Poornaprajna Digital Library is a web-based platform designed for students and a
 
 ## 📷 Screenshots   
 
+## 🚫 Repository Notice  
+🔒 **Code Not Publicly Available**  
+This project was developed for **Poornaprajna Institute** and cannot be shared publicly due to institutional restrictions.  
+
+## 📩 Contact  
+For any queries, contact **Nithin Kamath** at 📧 [nithinkamath2002@gmail.com](mailto:nithinkamath2002@gmail.com).  
